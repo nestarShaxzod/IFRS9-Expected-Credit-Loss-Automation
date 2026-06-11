@@ -29,16 +29,16 @@
 ## Примеры этапов обработки данных
 
 ### 1. Загрузка и подготовка исходных данных
-![Исходные данные](images/01_source_data.png)
+![Исходные данные](images/01_source_receivables.png)
 
 ### 2. Очистка и преобразование данных
-![Очистка данных](images/02_data_cleaning.png)
+![Очистка данных](images/02_cleaned_receivables_movement.png)
 
 ### 3. Формирование расчетных параметров (PD, LGD, EAD)
-![PD LGD EAD](images/03_pd_lgd_ead.png)
+![PD LGD EAD](images/03_Unpaind_amount_calculation.png)
 
-### 4. Расчет Expected Credit Loss (ECL)
-![Расчет ECL](images/04_ecl_calculation.png)
+### 4. Анализ просроченной задолженности (Aging Bucket Analysis)
+![Aging Bucket Analysis](images/04_aging_bucket_analysis.png)
 
-### 5. Итоговая аналитическая таблица
-![Итоговая таблица](images/05_final_ecl_table.png)
+### 5. Расчет Expected Credit Loss (ECL)
+![Расчет ECL](images/05_ECL_amount.png)
