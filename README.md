@@ -20,7 +20,7 @@
 
 Полная реализация ETL-процесса и расчета IFRS 9 ECL доступна в ноутбуке:
 
-[📓 Открыть Jupyter Notebook](./IFRS_9_ECL_automatization_ipynb)
+[📓 Открыть Jupyter Notebook](./IFRS_9_ECL_automatization.ipynb)
 
 ## Практическое применение
 
